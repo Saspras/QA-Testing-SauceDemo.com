@@ -1,8 +1,7 @@
 # 🧪 QA Testing – SauceDemo.com
 
 ## 📋 Project Description
-This project was created as part of my QA training to demonstrate my ability to **plan, execute, and document software tests** using manual and API testing tools.  
-The main goal is to evaluate the **functionality, usability, and stability** of the SauceDemo website through structured test cases and proper documentation.
+This hands-on QA project was designed to showcase my ability to plan, execute, and document software testing for a web application, utilizing both manual and API testing methodologies.
 
 ---
 
